@@ -7,8 +7,14 @@ box-sizing: border-box;
   width: 1024px;
   margin: 0 auto;
 }
+.color{
+  color: rgb(36, 186, 159);
+}
 header{
-
+background-color: black;
+}
+header h1{
+  color: white;
 }
 nav{
 
